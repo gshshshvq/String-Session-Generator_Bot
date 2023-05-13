@@ -4,7 +4,7 @@ from pyromod import listen
 from pyrogram.errors import ApiIdInvalid, ApiIdPublishedFlood, AccessTokenInvalid
 
 Flux = Client(
-    "Bot",
+    "6189942182:AAF33b9kqizmq6kjVaAmCXiCL0mz-QlGb1g",
     api_id=Config.API_ID,
     api_hash=Config.API_HASH,
     bot_token=Config.BOT_TOKEN,
